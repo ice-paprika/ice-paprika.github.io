@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bb on 红辣椒</title>
+    <link>http://ice-paprika.github.io/categories/bb/</link>
+    <description>Recent content in bb on 红辣椒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 May 2020 12:04:44 +0800</lastBuildDate>
+    
+	<atom:link href="http://ice-paprika.github.io/categories/bb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://ice-paprika.github.io/post/test/</link>
+      <pubDate>Sun, 03 May 2020 12:04:44 +0800</pubDate>
+      
+      <guid>http://ice-paprika.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
